@@ -1,0 +1,627 @@
+{
+  "Leite": {
+    "Piracanjuba": {
+      "Integral": {
+        "1 Litro": {
+          "category": "Leite",
+          "supplier": "Piracanjuba",
+          "type": "Integral",
+          "quantidade": "1 Litro",
+          "count": 4,
+          "products": [
+            {
+              "title": "Leite Integral Piracanjuba 1L",
+              "supermarket": "Supermercado A"
+            },
+            {
+              "title": "Leite Piracanjuba Integral 1L",
+              "supermarket": "Supermercado B"
+            },
+            {
+              "title": "Leite Integral Piracanjuba Zero Lactose 1L",
+              "supermarket": "Supermercado D"
+            },
+            {
+              "title": "Leite Piracanjuba Integral Sem Lactose 1L",
+              "supermarket": "Supermercado A"
+            }
+          ]
+        }
+      },
+      "Desnatado": {
+        "1 Litro": {
+          "category": "Leite",
+          "supplier": "Piracanjuba",
+          "type": "Desnatado",
+          "quantidade": "1 Litro",
+          "count": 3,
+          "products": [
+            {
+              "title": "Leite Desnatado Piracanjuba 1L",
+              "supermarket": "Supermercado A"
+            },
+            {
+              "title": "Piracanjuba Leite Desnatado 1L",
+              "supermarket": "Supermercado B"
+            },
+            {
+              "title": "Leite Desnatado Piracanjuba Zero 1L",
+              "supermarket": "Supermercado D"
+            }
+          ]
+        }
+      },
+      "Semi-Desnatado": {
+        "1 Litro": {
+          "category": "Leite",
+          "supplier": "Piracanjuba",
+          "type": "Semi-Desnatado",
+          "quantidade": "1 Litro",
+          "count": 2,
+          "products": [
+            {
+              "title": "Leite Semi-Desnatado Piracanjuba 1L",
+              "supermarket": "Supermercado A"
+            },
+            {
+              "title": "Leite Piracanjuba Semi Desnatado 1 Litro",
+              "supermarket": "Supermercado C"
+            }
+          ]
+        }
+      }
+    },
+    "Italac": {
+      "Integral": {
+        "1 Litro": {
+          "category": "Leite",
+          "supplier": "Italac",
+          "type": "Integral",
+          "quantidade": "1 Litro",
+          "count": 3,
+          "products": [
+            {
+              "title": "Leite Integral Italac 1L",
+              "supermarket": "Supermercado A"
+            },
+            {
+              "title": "Leite Italac Integral 1L",
+              "supermarket": "Supermercado C"
+            },
+            {
+              "title": "Leite Italac Integral Zero Lactose 1L",
+              "supermarket": "Supermercado B"
+            }
+          ]
+        }
+      },
+      "Desnatado": {
+        "1 Litro": {
+          "category": "Leite",
+          "supplier": "Italac",
+          "type": "Desnatado",
+          "quantidade": "1 Litro",
+          "count": 1,
+          "products": [
+            {
+              "title": "Leite Desnatado Italac 1L",
+              "supermarket": "Supermercado B"
+            }
+          ]
+        }
+      }
+    },
+    "Parmalat": {
+      "Integral": {
+        "1 Litro": {
+          "category": "Leite",
+          "supplier": "Parmalat",
+          "type": "Integral",
+          "quantidade": "1 Litro",
+          "count": 2,
+          "products": [
+            {
+              "title": "Leite Integral Parmalat 1L",
+              "supermarket": "Supermercado D"
+            },
+            {
+              "title": "Leite Parmalat Integral 1000ml",
+              "supermarket": "Supermercado C"
+            }
+          ]
+        }
+      }
+    },
+    "Elegê": {
+      "Integral": {
+        "1 Litro": {
+          "category": "Leite",
+          "supplier": "Elegê",
+          "type": "Integral",
+          "quantidade": "1 Litro",
+          "count": 1,
+          "products": [
+            {
+              "title": "Leite Integral Elegê 1L",
+              "supermarket": "Supermercado C"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Arroz": {
+    "Tio João": {
+      "Branco": {
+        "5kg": {
+          "category": "Arroz",
+          "supplier": "Tio João",
+          "type": "Branco",
+          "quantidade": "5kg",
+          "count": 4,
+          "products": [
+            {
+              "title": "Arroz Branco Tio João 5kg",
+              "supermarket": "Supermercado A"
+            },
+            {
+              "title": "Arroz Tio João Branco 5kg",
+              "supermarket": "Supermercado B"
+            },
+            {
+              "title": "Arroz Branco Tio João 5kg",
+              "supermarket": "Supermercado C"
+            },
+            {
+              "title": "Arroz Tio João Branco Tipo 1 5kg",
+              "supermarket": "Supermercado D"
+            }
+          ]
+        }
+      },
+      "Integral": {
+        "5kg": {
+          "category": "Arroz",
+          "supplier": "Tio João",
+          "type": "Integral",
+          "quantidade": "5kg",
+          "count": 1,
+          "products": [
+            {
+              "title": "Arroz Tio João Integral 5kg",
+              "supermarket": "Supermercado A"
+            }
+          ]
+        },
+        "Desconhecido": {
+          "category": "Arroz",
+          "supplier": "Tio João",
+          "type": "Integral",
+          "quantidade": "Desconhecido",
+          "count": 1,
+          "products": [
+            {
+              "title": "Arroz Integral Tio João 5 Quilos",
+              "supermarket": "Supermercado B"
+            }
+          ]
+        }
+      }
+    },
+    "Camil": {
+      "Branco": {
+        "5kg": {
+          "category": "Arroz",
+          "supplier": "Camil",
+          "type": "Branco",
+          "quantidade": "5kg",
+          "count": 2,
+          "products": [
+            {
+              "title": "Arroz Branco Camil 5kg",
+              "supermarket": "Supermercado A"
+            },
+            {
+              "title": "Arroz Camil Branco 5kg",
+              "supermarket": "Supermercado D"
+            }
+          ]
+        }
+      },
+      "Integral": {
+        "5kg": {
+          "category": "Arroz",
+          "supplier": "Camil",
+          "type": "Integral",
+          "quantidade": "5kg",
+          "count": 1,
+          "products": [
+            {
+              "title": "Arroz Integral Camil 5kg",
+              "supermarket": "Supermercado B"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Feijão": {
+    "Camil": {
+      "Carioca": {
+        "1 kg": {
+          "category": "Feijão",
+          "supplier": "Camil",
+          "type": "Carioca",
+          "quantidade": "1 kg",
+          "count": 4,
+          "products": [
+            {
+              "title": "Feijão Carioca Camil 1kg",
+              "supermarket": "Supermercado A"
+            },
+            {
+              "title": "Feijão Camil Tipo Carioca 1kg",
+              "supermarket": "Supermercado C"
+            },
+            {
+              "title": "Feijão Carioca Camil 1kg",
+              "supermarket": "Supermercado C"
+            },
+            {
+              "title": "Feijão Camil Carioca 1000g",
+              "supermarket": "Supermercado B"
+            }
+          ]
+        }
+      },
+      "Preto": {
+        "1 kg": {
+          "category": "Feijão",
+          "supplier": "Camil",
+          "type": "Preto",
+          "quantidade": "1 kg",
+          "count": 1,
+          "products": [
+            {
+              "title": "Feijão Preto Camil 1kg",
+              "supermarket": "Supermercado A"
+            }
+          ]
+        }
+      }
+    },
+    "Kicaldo": {
+      "Carioca": {
+        "1 kg": {
+          "category": "Feijão",
+          "supplier": "Kicaldo",
+          "type": "Carioca",
+          "quantidade": "1 kg",
+          "count": 2,
+          "products": [
+            {
+              "title": "Feijão Carioca Kicaldo 1kg",
+              "supermarket": "Supermercado B"
+            },
+            {
+              "title": "Feijão Carioca Kicaldo Tipo 1 1kg",
+              "supermarket": "Supermercado A"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Queijo": {
+    "Piracanjuba": {
+      "Mussarela": {
+        "500g": {
+          "category": "Queijo",
+          "supplier": "Piracanjuba",
+          "type": "Mussarela",
+          "quantidade": "500g",
+          "count": 2,
+          "products": [
+            {
+              "title": "Queijo Mussarela Piracanjuba 500g",
+              "supermarket": "Supermercado A"
+            },
+            {
+              "title": "Queijo Mussarela Piracanjuba Fatiado 500g",
+              "supermarket": "Supermercado C"
+            }
+          ]
+        }
+      }
+    },
+    "Tirolez": {
+      "Mussarela": {
+        "500g": {
+          "category": "Queijo",
+          "supplier": "Tirolez",
+          "type": "Mussarela",
+          "quantidade": "500g",
+          "count": 1,
+          "products": [
+            {
+              "title": "Queijo Mussarela Tirolez 500g",
+              "supermarket": "Supermercado B"
+            }
+          ]
+        },
+        "Desconhecido": {
+          "category": "Queijo",
+          "supplier": "Tirolez",
+          "type": "Mussarela",
+          "quantidade": "Desconhecido",
+          "count": 1,
+          "products": [
+            {
+              "title": "Queijo Mussarela Tirolez 500 Gramas",
+              "supermarket": "Supermercado D"
+            }
+          ]
+        }
+      },
+      "Prato": {
+        "500g": {
+          "category": "Queijo",
+          "supplier": "Tirolez",
+          "type": "Prato",
+          "quantidade": "500g",
+          "count": 1,
+          "products": [
+            {
+              "title": "Queijo Prato Tirolez 500g",
+              "supermarket": "Supermercado D"
+            }
+          ]
+        }
+      }
+    },
+    "Scala": {
+      "Mussarela": {
+        "500g": {
+          "category": "Queijo",
+          "supplier": "Scala",
+          "type": "Mussarela",
+          "quantidade": "500g",
+          "count": 1,
+          "products": [
+            {
+              "title": "Queijo Mussarela Scala 500g",
+              "supermarket": "Supermercado C"
+            }
+          ]
+        }
+      },
+      "Prato": {
+        "500g": {
+          "category": "Queijo",
+          "supplier": "Scala",
+          "type": "Prato",
+          "quantidade": "500g",
+          "count": 1,
+          "products": [
+            {
+              "title": "Queijo Prato Scala 500g",
+              "supermarket": "Supermercado A"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Suco": {
+    "Del Valle": {
+      "Laranja": {
+        "900ml": {
+          "category": "Suco",
+          "supplier": "Del Valle",
+          "type": "Laranja",
+          "quantidade": "900ml",
+          "count": 2,
+          "products": [
+            {
+              "title": "Suco de Laranja Del Valle 900ml",
+              "supermarket": "Supermercado A"
+            },
+            {
+              "title": "Suco Del Valle Laranja 900ml",
+              "supermarket": "Supermercado B"
+            }
+          ]
+        }
+      }
+    },
+    "Natural One": {
+      "Laranja": {
+        "900ml": {
+          "category": "Suco",
+          "supplier": "Natural One",
+          "type": "Laranja",
+          "quantidade": "900ml",
+          "count": 2,
+          "products": [
+            {
+              "title": "Suco de Laranja Natural One 900ml",
+              "supermarket": "Supermercado B"
+            },
+            {
+              "title": "Suco Natural One de Laranja 900ml",
+              "supermarket": "Supermercado D"
+            }
+          ]
+        }
+      }
+    },
+    "Maguary": {
+      "Laranja": {
+        "1 Litro": {
+          "category": "Suco",
+          "supplier": "Maguary",
+          "type": "Laranja",
+          "quantidade": "1 Litro",
+          "count": 2,
+          "products": [
+            {
+              "title": "Suco de Laranja Maguary 1L",
+              "supermarket": "Supermercado C"
+            },
+            {
+              "title": "Suco Maguary Laranja 1 Litro",
+              "supermarket": "Supermercado A"
+            }
+          ]
+        }
+      }
+    },
+    "Aurora": {
+      "Integral": {
+        "900ml": {
+          "category": "Suco",
+          "supplier": "Aurora",
+          "type": "Integral",
+          "quantidade": "900ml",
+          "count": 2,
+          "products": [
+            {
+              "title": "Suco de Uva Integral Aurora 900ml",
+              "supermarket": "Supermercado C"
+            },
+            {
+              "title": "Suco de Uva Aurora Integral 900ml",
+              "supermarket": "Supermercado D"
+            }
+          ]
+        }
+      }
+    },
+    "Casa de Madeira": {
+      "Integral": {
+        "900ml": {
+          "category": "Suco",
+          "supplier": "Casa de Madeira",
+          "type": "Integral",
+          "quantidade": "900ml",
+          "count": 1,
+          "products": [
+            {
+              "title": "Suco de Uva Integral Casa de Madeira 900ml",
+              "supermarket": "Supermercado A"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Carne": {
+    "Friboi": {
+      "Desconhecido": {
+        "1 kg": {
+          "category": "Carne",
+          "supplier": "Friboi",
+          "type": "Desconhecido",
+          "quantidade": "1 kg",
+          "count": 2,
+          "products": [
+            {
+              "title": "Carne Moída Friboi 1kg",
+              "supermarket": "Supermercado A"
+            },
+            {
+              "title": "Carne Moída Friboi Patinho 1kg",
+              "supermarket": "Supermercado D"
+            }
+          ]
+        }
+      }
+    },
+    "Seara": {
+      "Desconhecido": {
+        "1 kg": {
+          "category": "Carne",
+          "supplier": "Seara",
+          "type": "Desconhecido",
+          "quantidade": "1 kg",
+          "count": 2,
+          "products": [
+            {
+              "title": "Carne Moída Seara 1kg",
+              "supermarket": "Supermercado B"
+            },
+            {
+              "title": "Carne Moída Seara 1000g",
+              "supermarket": "Supermercado A"
+            }
+          ]
+        }
+      }
+    },
+    "Swift": {
+      "Desconhecido": {
+        "500g": {
+          "category": "Carne",
+          "supplier": "Swift",
+          "type": "Desconhecido",
+          "quantidade": "500g",
+          "count": 2,
+          "products": [
+            {
+              "title": "Carne Moída Swift 500g",
+              "supermarket": "Supermercado C"
+            },
+            {
+              "title": "Carne Moída Swift Patinho 500g",
+              "supermarket": "Supermercado A"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Óleo": {
+    "Soya": {
+      "Desconhecido": {
+        "900ml": {
+          "category": "Óleo",
+          "supplier": "Soya",
+          "type": "Desconhecido",
+          "quantidade": "900ml",
+          "count": 2,
+          "products": [
+            {
+              "title": "Óleo de Soja Soya 900ml",
+              "supermarket": "Supermercado A"
+            },
+            {
+              "title": "Óleo Soya de Soja 900ml",
+              "supermarket": "Supermercado C"
+            }
+          ]
+        }
+      }
+    },
+    "Liza": {
+      "Desconhecido": {
+        "900ml": {
+          "category": "Óleo",
+          "supplier": "Liza",
+          "type": "Desconhecido",
+          "quantidade": "900ml",
+          "count": 2,
+          "products": [
+            {
+              "title": "Óleo de Soja Liza 900ml",
+              "supermarket": "Supermercado B"
+            },
+            {
+              "title": "Óleo Liza Soja 900ml",
+              "supermarket": "Supermercado D"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
