@@ -1,6 +1,6 @@
 # 📌 Desafio: Categorização
 
-Este projeto tem como objetivo processar uma lista de produtos, identificando e categorizando-os automaticamente com base em seu título.
+Script do desafio https://github.com/kingjotaro/challenge01.
 
 ## 🛠️ Como funciona?
 
